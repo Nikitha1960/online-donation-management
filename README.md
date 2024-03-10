@@ -1,4 +1,4 @@
-# Food For All - Frontend
+# charity connect - Frontend
 
 ## Group Details
 Group Number - SER059
@@ -13,7 +13,7 @@ Group Number - SER059
 
 ## Project Description
 
-`Food For All` is a donation management system. The system consists of four stakeholders namely the admin, donator, requester and the organization. The donator can create donations about what they can donate, and they can accept requests from requesters and also they can donate to fundraisers. The requesters get information about poor people and post requests about what they need and the donators can get information about them. The organizations can mainly raise funds to overcome hard situations.
+`Organisation of charity connect` is a donation management system. The system consists of four stakeholders namely the admin, donator, requester and the organization. The donator can create donations about what they can donate, and they can accept requests from requesters and also they can donate to fundraisers. The requesters get information about poor people and post requests about what they need and the donators can get information about them. The organizations can mainly raise funds to overcome hard situations.
 
 ## Technologies
 `MERN stack`
