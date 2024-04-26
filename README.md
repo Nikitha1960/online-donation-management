@@ -35,9 +35,3 @@ NodeJS - JS Runtime for the backend
 
 **This repository contains only the frontend of our application the backend is also needed to run the application you can get it from [here](https://github.com/sxchintha/Food_for_All-Food_Donation-Backend)
 
-## Interfaces
-Below are some running interfaces of the application.
-
-![alt text](https://i.postimg.cc/J0fc7wV8/Screenshot-2022-10-20-133714.png)    ![alt text](https://i.postimg.cc/v8gKybfp/Screenshot-2022-10-20-133754.png) ![alt text](https://i.postimg.cc/N0vs6dY0/Screenshot-2022-10-20-133809.png) 
-![alt text](https://i.postimg.cc/PfVd3Xh9/Screenshot-2022-10-20-134015.png)  ![alt text](https://i.postimg.cc/TwPZgbyw/Screenshot-2022-10-20-134046.png) 
-
