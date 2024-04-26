@@ -5,10 +5,9 @@ Group Number - SER059
 
 | Name     | Student ID      | UserName  | Stakeholder
 | ------------- | ------------- | --------    | --------    |
-| Yasith Chandula | `IT20211646`  | yasithchandula   |Admin   |
-| Sachintha Gunaratne | `IT20208462`  | sxchintha   |Organization   |
-| Thushal Shaminda | `IT20216146`  | thushal-shaminda   |Requester   |
-| Akila Kavinda | `IT20211714`  | akilakavinda99   |Donator   |
+| Nikitha krishna | `2200031802`  | Nikitha19  |Admin   |
+| Pooja Kadiyala | `2200032890`  | pooja22  |Organization   |
+| Tasneem | `2200032781`  | Tasnemmohmmad   |Requester   |
 
 
 ## Project Description
